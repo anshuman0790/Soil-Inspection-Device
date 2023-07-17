@@ -14,9 +14,13 @@ capacitance measures the amount of electrical charge that can be stored across a
 potential. It is use to measure moisture content of soil.
 
 **Project objective**
+
 • Measure NPK value of soil
+
 • Measure temperature of soil
+
 • Measure moisture content of soil
+
 • Display the measured values of soil using thingspeak
 
 **Methodology**
